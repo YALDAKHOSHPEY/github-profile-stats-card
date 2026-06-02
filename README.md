@@ -1,4 +1,4 @@
-# GitHub Profile Stats Card (SVG)
+# GitHub Profile Stats Card (SVG
 
 A simple, themeable **SVG profile card** that you can embed directly into your GitHub README.
 No image uploads, no manual updates — just a single URL.
